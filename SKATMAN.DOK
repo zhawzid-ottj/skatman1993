@@ -1,0 +1,478 @@
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÑÍÍÑÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÑÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º ÚÄÄÄÄÄÄÄ¿ ÚÄÄÄ ³ ÚÙ  ÚÄÄÄ¿ ÄÄÂÄ ÄÂ¿   Ú¿ ÚÄÄÄ¿ Ú¿  ³ ÚÄÄÄ¿  ÚÄÄ¿  ÚÄÄÄ ÚÄÄ¿  º
+º ³ B   ³ ³    ³ÚÙ   ³   ³   ³   ³À¿ ÚÙ³ ³   ³ ³À¿ ³ ³   ³ ÚÙ  À¿ ³    ³  À¿ º
+º ³   ² B ³ ÀÄÄ¿ ÃÁ¿   ÅÄÄÄ´   ³   ³ ÀÂÙ ³ÄÅÄÄÄ´ ³ À¿³ÄÅÄÄÄ´ ³    Á ÃÄÄ  ³  ÚÙ º
+º ³  ²±² Jack's³ ³ À¿  ³   ³   ³   ³  ³  ³ ³   ³ ³  À´ ³   ³ ³ ÚÄÄ¿ ³    ÃÄÂÙ  º
+º ³  ²   ³    ³ ³  À¿ ³   ³   ³   ³     ³ ³   ³ ³   ³ ³   ³ ³    ³ ³    ³ À¿  º
+º ³ B  B ³ ÃÄÄÙ Á   ÀÄÁ   ³   Á   Á     Á Á   ³ Á     Á   ³ ÀÄÄÄÄÙ ÀÄÄÄ ³  Á  º
+ÈÍÁÄÄÄÄÄÄÄÁÍÏÍÍÍÍÍÍÍÍÍÍÍÍÍÍÏÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÏÍÍÍÍÍÍÍÍÍÍÍÏÍÍÍÍÍÍÍÍÍÍÍÍÍÏÍÍÍÍÍ¼
+       Skat Abrechnungs- und Auswertungssoftware (C) 1993 by Jakob Ott.
+
+ Dies ist ein SHAREWARE-Programm - Bei regelm„áiger Benutzung w„re es gerecht,
+ wenn Sie mir DM 20.- als Anerkennung zukommen lassen wrden. DANKE
+                                                                     Jakob Ott.
+
+Inhalt >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-------------------------------------------------------------------------------
+        1)......... Einleitung
+        2)......... Systemanforderungen / Installation
+        3)......... Benutzung und Start des Programms
+        4)......... Funktionen der Hauptmens
+        5)......... Spielablauf anhand von Spielmodus "Mit Buben v.l."
+        6)......... Bemerkungen zum Kompaktmodus
+        7)......... Reizwertkontrolle
+
+
+-------------------------------------------------------------------------------
+1) Einleitung >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-------------------------------------------------------------------------------
+
+        Skat ist eines der, wenn nicht sogar DAS interessanteste Kartenspiel,
+ das in Deutschland gespielt wird. Nicht von ungef„hr spielen Zigtausende,
+ wenn nicht Millionen von Menschen in Deutschland dieses komplexe und ab-
+ wechslungsreiche Spiel. Bei vielen ist es blich, einen Abend pro Woche
+ fr's Skatspielen zu reservieren, und der Unterhaltungswert dabei ist enorm.
+
+        Wenn Sie auch zu diesen Leuten geh”ren, die Skat mit Freunden gern
+ zuhause spielen, und ihr Computer dabei nutzlos daneben steht, ist dieses
+ Programm genau das richtige fr Sie.
+
+        Das L„stige beim Spiel ist eben die Abrechnung. Hier muá der Schreiber
+ gut kopfrechnen k”nnen und die šbersicht behalten. Nach dem einen oder anderen
+ "Viertele" k”nnen da schon gewisse (alpha)numerische Koordinationsschwierig-
+ keiten auftreten...
+
+        Mit dem "Skatmanager" steht Ihnen nun Software zur Verfgung, mit dem
+ Sie durch wenige Tastendrcke die jeweilige Abrechnung erledigen k”nnen.
+ Vor allem durch die verschiedene Abrechnungsmodi k”nnen Sie die Abrechnung
+ ihren pers”nlichen Wnschen entsprechend vornehmen.
+
+        Haben Sie sich erst einmal eingearbeitet (was nicht schwer sein soll),
+ so kann durch den "Kompaktmodus" der Abrechnungsaufwand extrem minimiert
+ werden.
+
+        Selbstverst„ndlich beherrscht das Programm auch die Sonderregeln wie
+ "RAMSCH/BOCK" usw.
+
+        Das Programm ist m”glichst einfach aufgebaut und erm”glicht eine
+ komfortable Benutzerfhrung trotz "rudiment„rem" Bildschirmaufbau.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------
+2) Anforderungen/Installation >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-------------------------------------------------------------------------------
+
+        "SKATMANAGER" ist von den Anforderungen so anspruchslos wie sonst
+ kaum ein Programm, lediglich ein IBM-komptatibler Rechner ist notwendig.
+
+        - Grafikkarte : EGAL (MDA, HERCULES, MCGA, CGA, EGA, VGA...)
+        - Monitor     : mind. 80x25 Text monochrom...;-)
+        - Speicher    : 256Kb sollten vorhanden sein...
+
+ Es máte also auch auf dem sch„bigsten XT laufen.
+
+ Alles was zur Installation getan werden muá, ist die Datei "SKATMAN.EXE" und
+ m”glichst dieser Text (ist aber fr die Benutzung nicht notwendig) ins
+ gewnschte Verzeichnis zu kopieren, fertig ist die Installation!
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------
+3) Benutzung und Start des Programms >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-------------------------------------------------------------------------------
+
+ Nach dem Start des Programms werden Sie zun„chst gefragt, ob Sie einen Farb-
+ oder Monochrommonitor besitzen. Beantworten Sie die Frage richtig, sonst kann
+ es zu Darstellungsschwierigkeiten kommen.
+ Sollten Sie keinen Spielstand gespeichert haben oder das Programm zum ersten
+ mal starten, beantworten Sie die Frage "Spiel laden ?" mit "N".
+
+ "Wieviele Spieler ?"
+
+ Nun haben Sie mit "3" bzw "4" die M”glichkeit zwischen 3 und 4 Spielern
+ zu w„hlen.
+ Danach geben Sie die Namen der Spieler an, und zwar in der Reihenfolge
+ erster Geber zuerst, im Uhrzeigersinn.
+ Bei der Auswahl "Spielmodus" empfehle ich fr die erste Zeit den
+ Modus "MIT BUBEN V. LINKS". Auswahl mit Pfeiltasten und <RETURN>.
+ Hier handelt es sich um eine, hochgestochen ausgedrckt, interaktive
+ Betriebsart, bei der das Programm (fast) alle Parameter erfragt.
+ ( Sie w„hlen den Modus mit den Pfeiltasten  und best„tigen mit <RETURN> )
+
+ Nun erscheint das Hauptmen.
+
+-------------------------------------------------------------------------------
+4) Funktionen des Hauptmens >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-------------------------------------------------------------------------------
+
+ Folgende Wahlm”glichkeiten haben Sie:
+
+ Men 1 : SPIEL!
+ ------------------------------------------------------------------------------
+                Hiermit starten Sie die n„chste Spielrunde, bei der dann
+                zun„chst der Alleinspieler identifiziert werden muá.
+
+
+ Men 2 : TABELLE
+ ------------------------------------------------------------------------------
+
+        Tabelle auf Bildschirm :
+                Die Tabelle zeigt Ihnen eine šbersicht auf alle gewerteten
+                Spiele. Die untersten 2 Quotenangaben sind einmal die
+                Spielquote mit Verh„ltnis- und Prozentangabe des
+                Gewonnen/Gesamtspiele - Quotienten.
+                Die andere Quote stellt eine Spielerbeurteilung dar.
+
+        Tabelle auf Drucker/Datei :
+                Hiermit kann die Tabelle (s.o.) auf einen Drucker oder in
+                eine Datei umgelenkt werden. Die Ausgabe erfolgt in
+                Standard ASCII-Code. Der Standard-Wert PRN steht fr
+                den angeschlossenen Standard-Drucker.
+
+
+ Men 3 : PREFS
+ ------------------------------------------------------------------------------
+
+    1)  Farbbetrieb :
+                Hier kann zwischen Farb- und Monochromdarstellung gew„hlt
+                werden. Ein Haken [û] zeigt Farbbetrieb an. Die Umstellung
+                erfolgt erst bei weiteren Bildschirmdarstellungen, also
+                nicht sofort.
+
+    2)  Ramsch-Automatik :
+                Normalerweise wird nach einem verlorenen Contra RAMSCH/BOCK
+                gespielt. Dies kann automatisch erfolgen, wenn diese Funktion
+                aktiv ist - (Aktiviert mit [û]).
+                Andernfalls muá ein RAMSCH/BOCK immer manuell
+                gestartet werden ([ ]).
+
+     3)  Grand mal 2 :
+                Bei einer Ramschrunde kann ja bekanntlich jeder Spieler
+                einmal einen GRAND-HAND spielen. Soll dieser Grand, wenn er
+                VERLOREN wird, doppelt gewertet werden, so muá hier ein [û]
+                stehen. Andernfalls wird dieser einfach gewertet
+                (also nicht doppelt verloren).
+
+      4)  Geber-Regel :
+                Wird im RAMSCH ein GRAND-HAND gespielt, so gibt in der fol-
+                genden Runde normalerweise der selbe Geber nochmals - [û]
+                Wird dies nicht gewnscht, so muá hier ein [ ] stehen.
+
+      5)   RAMSCH/BOCK-Runden :
+                Es erscheint ein kleines Fenster, in dem die Anzahl der noch
+                zu spielenden RAMSCH/BOCK-RUNDEN steht.
+                Bei eingesch. Ramschautomatik 2) wird dieser bei einem ver-
+                lorenen Contra (Re,Bock..) automatisch hochgez„hlt. Laufende
+                RAMSCH/BOCK-Runden werden aber zun„chst mal zu Ende gespielt.
+
+       6)   Spielernamen :
+                In einem Fenster k”nnen die jeweiligen Spielernamen
+                modifiziert werden. Mit der Taste <F2> k”nnen die ge„nderten
+                Namen bernommen werden. <ESC> bewirkt, daá weiterhin mit den
+                alten Namen gespielt wird.
+
+        7)   Kompaktmodus           -  Kompaktmodus aktivieren
+        8)   Manuelle Abrechnung    -  Manuelle Abrechnung aktivieren
+        9)   Mit/Ohne-Abrechnung    -  Interaktive Abrechnung 1 aktivieren
+       10)   M/O..Spiel-Abrechnung  -       ""         ""     2 aktivieren
+
+
+ Men 4 : MANAGER
+ ------------------------------------------------------------------------------
+
+        1) Spielertausch
+                Damit kann die "Sitzordnung" ver„ndert werden.
+                Benutzen Sie diese Funktion, wenn zwei Spieler die
+                Pl„tze tauschen.
+
+        2) Korrektur
+                Korrekturfunktion. Hier kann bei einem beliebigen
+                Spieler die letzte Wertung ver„ndert bzw. gel”scht werden.
+
+        3) Rollenverteilung
+                Hier wird der Spieler rechts vom Geber zum neuen Geber
+                erkl„rt. Die Rollenverteilung (Geben,H”ren,Sagen) wird
+                also gegen den Uhrzeigersinn rotiert.
+
+        4) Ramsch beenden
+                Diese Option ist nur dann zu erreichen, wenn gerade ein
+                Ramsch/Bock aktiv ist. Hiermit kann die laufende Ramsch/Bock-
+                Runde sofort beendet werden.
+
+        5) Spiel/Einstellungen speichern
+                Hier kann nach Angabe der entsprechenden Spielstandsnummer
+                der komplette Spielstand ins aktuelle Verzeichnis gesichert
+                werden. Der alte Spielstand unter dieser Nummer wird ber-
+                schrieben! Sollte der Versuch, den Spielstand zu speichern
+                fehlschlagen (Disk voll o.„.), dann kann ein Pfad angegeben
+                werden, unter dem der Spielstand gespeichert werden soll.
+
+        6) Spiel/Einstellungen laden
+                Wurde ein Spielstand unter der unmittelbar anzugebenden
+                Spielstandsnummer im aktuellen Verzeichnis gespeichert,
+                so ersetzt dieser den gerade laufenden. Nicht so umst„ndlich
+                ausgedrckt heiát das: SPIEL LADEN
+
+        7) Neues Spiel
+                Hier kann ein neues Spiel gestartet werden. Der gerade
+                laufende Spielstand wird gel”scht !
+
+        8) Pfennigskatabrechnung
+                Pfennigskatabrechnung. Nach Eingabe des Multiplikators in
+                Pfennigen wird eine einfache Pfennigskatabrechnung durch-
+                gefhrt (Die Punktedifferenz zum Sieger werden von den
+                Mitspielern an den Gewinner ausbezahlt).
+
+        9) Hilfstext anzeigen
+               Entweder Sie kennen diese Funktion schon (weil sie sie als
+               letztes aufgerufen haben) oder Sie schauen sich diesen Text
+               von einem anderen Programm aus an. Vom SKATMANAGER aus lesen
+               Sie diesen Text auf jeden Fall nach Anwahl dieser Funktion
+               mit der Sie durch einen integrierten Textanzeiger diesen
+               Hilfetext vom Programm aus aufrufen.
+
+       10) Programminformation
+               Ein Programminformationsbildschirm...
+
+
+ Men 5 : ENDE
+ ------------------------------------------------------------------------------
+               Der SKATMANAGER wird hierdurch beendet.
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------
+5) Spielablauf anhand von Spielmodus "Mit Buben v. links" >>>>>>>>>>>>>>>>>>>>>
+-------------------------------------------------------------------------------
+
+        Mit der Eingabetaste <RETURN> kommen Sie vom Hauptmen aus in die
+ n„chste Spielrunde. Hier muá zun„chst der Alleinspieler bestimmt werden.
+ Es kann die Spielernummer oder der Name des Spielers angegeben werden.
+ Bei der Eingabe des Namens reichen die ersten Zeichen, die notwendig
+ sind, um der Spieler von den anderen unterscheiden zu k”nnen. SKATMANAGER
+ fragt im Zweifelsfall nach, ob wirklich dieser Spieler gemeint sein soll.
+
+ Nun kommt die erste Fallunterscheidung, die den Abrechnungsverlauf bestimmt.
+ Es wird zwischen FARB/GRAND Spielen und NULLSPIELEN unterschieden.
+ Antworten Sie mit "J" oder <RETURN>, wenn ein FARB/GRAND gespielt wird,
+ andernfalls "N" oder <ESC>.
+
+ Bei "J" geben Sie die Abrechnungsparameter so an, wie danach gefragt wird, also
+ zuerst den Spielwert:
+
+   <1> - <4> fr Farbspiele, <G> fr GRAND, <O> fr GRAND-OUVERT
+
+ Dann die zugeh”rige Anzahl der Buben, die in Reihe in absteigender Folge
+ vorhanden waren.
+
+   <1> - <5>
+
+ Bei den Spielattributen (Schneider, Contra, Verloren...) kann eine
+ Zeichenkette eingegeben werden, die alle Parameter in beliebiger Reihenfolge
+ durch ihre zugeordenten Buchstabencodes repr„sentiert.
+
+        Beispiele:
+
+            "savc"        <S>chneider, <A>ngesagt, <V>erloren, <C>ontra
+            "hu"          <H>and, <U>eberreizt
+            "sr"          <S>chneider, <R>e
+
+        Sonderf„lle:
+
+            Schneider angesagt, Schwarz gespielt geht so:        "saw"
+            Schwarz angesagt                                     "wa"
+            Schneider angesagt                                   "sa"
+
+ Wird Null gespielt, kann zus„tzlich bei den Attributen noch auf
+ ein h”heres Nullspiel (Null-Hand, -Ouvert, -Ouvert-Hand) durch
+ Angabe von "H" bzw. "N" ("NH") umgestiegen werden.
+
+ Die Reihenfolge ist, wie oben beschrieben, beliebig.
+ Es ist also v”llig egal ob "hsv" oder "svh" oder "vhs" angegeben wird.
+ Dies gilt auch fr den Kompaktmodus (s.u.)
+
+ Nach der Analyse und der Richtigkeitsbest„tigung wird das Spiel in
+ die "ewige Tabelle" bernommen und die n„chste Runde gestartet.
+
+ Anmerkung: Der Spielmodus "SPIEL" entspricht dem Modus "MIT", nur mit dem
+            Unterschied, daá sich die Anzahl der Buben plus 1 angegeben werden
+            muá, also bei z.B. 3 Buben von links muá "4" angegeben werden
+            Entspricht "Mit 3, Spiel <4>".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------
+6) Bemerkungen zum Spielmodus "Kompaktmodus" >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-------------------------------------------------------------------------------
+
+ Bei dieser Betriebsart ist die Abrechnung am schnellsten vorzunehmen, da
+ alle Attribute in einen "String hineingepackt" sind, d.h. alle zur Abrech-
+ nung erforderlichen Wahlm”glichkeiten werden durch eine einzige Zeichen-
+ kette eingegeben.
+ Die angegeben Kombinationsm”glichkeiten sind, soweit sie sinnvoll sind,
+ beliebig. Die Reihenfolge spielt keine Rolle.
+
+        Einige Beispiele erkl„ren das am besten:
+        ----------------------------------------------------------------------
+    1)  Grand, mit 2, Schneider :                               "G-2S"
+    2)  Nullhand, Contra :                                      "NHC"
+    3)  Karo, mit 3, Verloren :                                 "4-3V"
+    4)  Kreuz, ohne 3, berreizt :                              "1-3U"
+    5)  Grandouverthand, mit 1, Schneider angesagt :            "GOH-1SA"
+    6)  Grand, mit 1, Schneider angesagt, Schwarz gespielt :    "G-1SAW"  (!)
+    7)  Grand, mit 2, Schwarz angesagt :                        "G-2WA"
+    8)  Herz, ohne 3, Hand :                                    "3-3H"
+                                                           oder "-33H"
+                                                           oder "H-33"
+
+
+        Der Bindestrich gilt als Indikator, daá die direkt rechts davon
+        stehende Ziffer die Anzahl der Buben darstellt, mit denen gespielt
+        wurde.
+
+        Der Sonderfall "Schneider angesagt, Schwarz gespielt" ist das Beispiel
+        6 mit dem Ausrufungszeichen dahinter. Hier kommt es darauf and, daá
+        "W" fr Schwarz und "S" fr Schneider zusammen mit dem "A" fr
+        Angesagt stehen mssen.
+
+        Durch einen Stern "*" kann bei jeder beliebigen Abrechnung eine
+        RAMSCH-BOCK-Runde gestartet werden.
+
+        mit dem Number-Zeichen "#" kann direkt ein Abrechnungswert angegeben
+        werden. Bei Eingabe von z.B. "#120" werden dem Spieler 120 Punkte
+        gutgeschrieben. "#-66" fhrt zu 66 Nassen in diesem Spiel.
+
+        Bei einem laufenden Ramsch wechselt das Programm zwischenzeitlich in
+        "interaktiven" Modus (Wie Modus 4: "MIT"). Beim Start der BOCK-Runde
+        kehrt SKATMANAGER in den Kompaktmodus zurck.
+
+
+
+
+-------------------------------------------------------------------------------
+7) Reizwertkontrolle >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-------------------------------------------------------------------------------
+
+        Bei der Reizwertkontrolle kann das Programm den tats„chlichen
+        Reizwert mit dem Spielwert vergleichen und ggf. ein šBERREIZT-
+        Attribut hinzufgen.
+        Das geht folgendermaáen:
+
+                Bei der Eingabe des Spielernamens (oder Krzels) muá
+                dann durch Komma getrennt, der Reizwert angegeben werden.
+                z.B. "JACK,22". Somit wird die Reizwertkontrolle aktiviert
+                und auf 22 "scharfgemacht".
+                Dies ist optional und kann auch weggelassen werden.
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------
+8) SHAREWARE >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-------------------------------------------------------------------------------
+
+        Diese Version ist eine SHAREWARE Version. Die heiágeliebte Ein-
+        schr„nkung besteht darin, daá pro Spieler maximal 10 Tabellen-
+        eintr„ge gew„hrt werden. Wird dieser Wert berschritten, erscheint
+        ein SHAREWARE-Infofenster und die Tabelle wird nach oben rotiert.
+
+        Leider zeigt sich, daá dieser Prinzip wohl das einzige ist, das
+        funktioniert.
+
+        Lassen Sie sich registieren, da in der Vollversion maximal 1000
+        Tabelleneintr„ge m”glich sind. Das sollte auch fr Marathonspieler
+        ausreichen. Desweiteren erhalten Sie die jeweils neueste Version
+        von Skatmanager. (2.xx mit komfortabler Oberfl„che ???)
+
+        Weiterhin ist bei gengender Nachfrage ein Turniermodus geplant.
+        Lassen Sie mich Ihre Skatregeln wissen, sollten diese von den
+        im Programm integrierten abweichen. Das Programm ist flexibel
+        programmiert und jederzeit leicht erweiterbar.
+
+
+
+-------------------------------------------------------------------------------
+9) Schluá >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-------------------------------------------------------------------------------
+
+             Der Rest der Funktionen máte durch das "trial-and-error"-Prinzip
+             am schnellsten zueigen gemacht werden k”nnen...;-)
+
+                                Viel Spaá,
+                                           JACK.
+
+        P.S.:  Dieses Programm ins urheberrechtlich geschtzt. (C) 1993.
+               Profitbringender Verkauf oder Benutzung, die ber Testzwecke
+               hinausgeht nur mit Erlaubnis der Autors !!! (Registrierung)
+
+-------------------------------------------------------------------------------
+
+                        Autor:
+                        ^^^^^^  Jakob Ott
+                                Hohe Straáe 58
+                                89518 Heidenheim
+                                Tel.: 07321/49824
+
+
+
+
+
+
+
+
+
+
+
+
+                           *************************
+                           ***        ENDE       ***
+                           *************************
+
+
+
+
+
+
+
+
+
